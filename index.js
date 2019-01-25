@@ -5,9 +5,6 @@ const driver = {}
 function updateDriverWithKeyAndValue(driver){
   
   const driverCopy = {... driver}
-  driverCopy.push( 
-    name: 'Sam'
-    address: ''
-  )
+  driverCopy
   
 }
